@@ -7,7 +7,7 @@ Estamos aprendinedo a trabajar con **GIT** y para eso hemos creado este reposito
 - Puedo trabajar en equipo con mis compañeros.
 - Aprendo de otros desarrolladores consultando sus repositorios. 
 
-## Flujo de trabajo de GIT 
+## Flujo de trabajo de GIT :cat: :cat2:
 Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://github.com/abuearr?tab=repositories) tenemos que seguir los siguientes pasos. 
 ```
 git add fichero
